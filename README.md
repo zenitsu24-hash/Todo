@@ -34,3 +34,37 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# 📝 Full-Stack Todo App with Next.js & MongoDB
+
+A full-featured Todo application built with **Next.js**, **MongoDB**, and **Node.js**, featuring:
+
+- Add, update, delete, and list todos
+- Responsive UI
+- Secure backend with API routes
+- MongoDB Atlas integration
+- Environment-variable-based secret management
+
+---
+
+## 🚀 Features
+
+- ✅ Create, read, update, delete (CRUD) todos
+- 🔐 MongoDB credentials managed using `.env`
+- ⚡ Fast SSR and API handling with Next.js
+- 📦 Modern frontend with React and Tailwind CSS (if used)
+- 🌍 MongoDB Atlas support for cloud storage
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend  | Backend      | Database  |
+|-----------|--------------|-----------|
+| Next.js   | Node.js API  | MongoDB   |
+
+---
+
+## 📂 Project Structure
+
+
